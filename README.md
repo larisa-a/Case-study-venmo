@@ -75,3 +75,8 @@ There would have to be a delay in the system for sending the money out immediate
 * Why are these technologies appropriate for your solution? 
 
 Having the buffer would give the user time to re-evaluate that the money was sent to the correct person for the correct amount- also a feature to adjust the amount once sent. Since Venmo lives on venmo balance this should be an easy ask. 
+
+
+** references - 
+- https://fin.plaid.com/articles/how-venmo-does-p2p-without-fees/#:~:text=When%20a%20bank%20account%20is,customers%20to%20join%20the%20platform.
+- https://www.investopedia.com/articles/personal-finance/010715/venmo-its-business-model-and-competition.asp#:~:text=Venmo%20was%20originally%20created%20by,point%2Dof%2Dsales%20software.
